@@ -1,0 +1,8 @@
+### Tell me a Joke
+GET {{host}}/joke
+
+### Current Weather
+GET {{host}}/cities/weather?city=Paris
+
+### Chat Current Weather
+GET {{host}}/cities?message=What is the current weather in Paris, France?
